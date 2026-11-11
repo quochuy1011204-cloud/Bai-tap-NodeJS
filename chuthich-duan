@@ -1,4 +1,4 @@
-Bài 1: Cài đặt Node.js LTS và chạy chương trình Hello
+Bài 1: Cài đặt Node.js LTS và chạy chương trình Hello world
 
 Đã cài đặt Node.js LTS, kiểm tra phiên bản Node.js và npm bằng lệnh node -v, npm -v. Tạo file Bai1.js và chạy chương trình thành công bằng Terminal.
 
