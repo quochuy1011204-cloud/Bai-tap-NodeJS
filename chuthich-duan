@@ -1,0 +1,7 @@
+Bài 1: Cài đặt Node.js LTS và chạy chương trình Hello
+
+Đã cài đặt Node.js LTS, kiểm tra phiên bản Node.js và npm bằng lệnh node -v, npm -v. Tạo file Bai1.js và chạy chương trình thành công bằng Terminal.
+
+Bài 2: Thực hành với MongoDB
+
+Tạo file Bai2.js để thực hành kết nối Node.js với MongoDB, thao tác với cơ sở dữ liệu và collection. Kiểm tra dữ liệu bằng MongoDB Compass để xác nhận kết quả thực hiện.
