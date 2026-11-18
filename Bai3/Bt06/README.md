@@ -75,8 +75,6 @@ Kết quả dự kiến:
 
 ## 8. HÌNH ẢNH MINH CHỨNG
 
-**Ảnh 1: Code file xulyDiem.js**
+<img width="407" height="53" alt="image" src="https://github.com/user-attachments/assets/1cabe1ee-7814-4ad4-ad26-83acaf060a4c" />
+<img width="409" height="284" alt="image" src="https://github.com/user-attachments/assets/20972ef0-67a8-4310-8b02-833a630a9011" />
 
-Chèn ảnh code tại đây.
-
-**Ảnh 2: Code file bai06
