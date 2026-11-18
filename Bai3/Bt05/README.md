@@ -35,9 +35,19 @@ node.exe bai05.js
 - Đóng kết nối MongoDB thành công.
 
 ## 6. Hình ảnh minh chứng
-- Ảnh 1: Code chương trình `bai05.js`.
+- Ảnh 1: Code chương trình 
+- <img width="500" height="70" alt="image" src="https://github.com/user-attachments/assets/ac12a093-8316-4813-943d-f8db54bf39a4" />
+
 - Ảnh 2: Kết quả chạy chương trình trên Terminal.
+- <img width="455" height="340" alt="image" src="https://github.com/user-attachments/assets/3c230e47-775f-46bc-84d9-648d341634f0" />
+<img width="360" height="238" alt="image" src="https://github.com/user-attachments/assets/2f8c09f6-f46c-4843-b674-c92b39377875" />
+
+
 - Ảnh 3: Dữ liệu đã cập nhật trên MongoDB Compass.
+- <img width="1301" height="323" alt="image" src="https://github.com/user-attachments/assets/e8e2f0f5-ef4f-4add-bb1a-5a367485c439" />
+<img width="1073" height="597" alt="image" src="https://github.com/user-attachments/assets/d2851934-5bf7-47ab-b34a-fb6438a4254d" />
+
+
 
 ## 7. Kết luận
 Đã hoàn thành bài thực hành tìm kiếm, cập nhật và sắp xếp dữ liệu MongoDB bằng Node.js.
