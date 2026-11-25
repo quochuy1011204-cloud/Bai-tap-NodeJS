@@ -33,6 +33,10 @@ Chương trình kết nối MongoDB thành công, thêm 2 khoa và 4 sinh viên.
 ## 7. Hình ảnh minh chứng
 
 ### .. Kết quả chạy trên Terminal
+<img width="675" height="274" alt="image" src="https://github.com/user-attachments/assets/1a989604-576a-49f4-abd8-72e35b1d662b" />
+
 
 
 ### .. Dữ liệu trên MongoDB Compass
+<img width="739" height="647" alt="image" src="https://github.com/user-attachments/assets/7c5744bf-3885-4887-b755-5ee2fd4da51f" />
+
