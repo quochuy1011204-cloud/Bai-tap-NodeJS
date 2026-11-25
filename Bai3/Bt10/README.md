@@ -25,7 +25,6 @@ Bài thực hành sử dụng NodeJS và MongoDB để liên kết dữ liệu g
 
 cd "C:\HUY CDCNTT18A\Bai3\Bt10"
 node.exe bai10.js
-```
 
 ## 6. Kết quả
 Chương trình kết nối MongoDB thành công, thêm 2 khoa và 4 sinh viên. Sau đó sử dụng `$lookup` để liên kết dữ liệu và hiển thị tên khoa tương ứng của từng sinh viên.
