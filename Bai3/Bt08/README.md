@@ -49,6 +49,7 @@ Tập tin kết quả cuối cùng:
 Qua bài thực hành, em hiểu cách sử dụng module `fs` để thực hiện các thao tác cơ bản với tập tin trong Node.js, biết cách ghi, đọc, đổi tên và xóa tập tin, đồng thời xử lý các thao tác tuần tự bằng `async/await`.
 ## 7 ảnh khi chạy 
 <img width="434" height="29" alt="image" src="https://github.com/user-attachments/assets/a02c3094-0a95-4534-9f4e-14ddd7efb6f4" />
-<img width="359" height="201" alt="image" src="https://github.com/user-attachments/assets/4505cb60-7abd-405a-8c9d-fe1b8b9085e0" />
+<img width="382" height="240" alt="image" src="https://github.com/user-attachments/assets/f8b86358-8b00-4d1a-87e4-52b1d298bde9" />
+
 
 
