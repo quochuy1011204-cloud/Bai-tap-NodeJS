@@ -33,10 +33,16 @@ Chương trình kết nối MongoDB thành công, thêm 5 sinh viên, thực hi�
 ## 7. Hình ảnh minh chứng
 
 ### 7.1. Hình ảnh  bai09.js
-![Code bai09.js](anh-code.png)
+<img width="417" height="33" alt="image" src="https://github.com/user-attachments/assets/afb590c7-a57c-4866-9f8a-8beca6bb290e" />
+
 
 ### 7.2. Hình ảnh chạy chương trình trên Terminal
-![Ket qua Terminal](anh-terminal.png)
+<img width="564" height="634" alt="image" src="https://github.com/user-attachments/assets/1615d3b2-e532-4892-b220-d336f0a484de" />
+<img width="452" height="359" alt="image" src="https://github.com/user-attachments/assets/502ae390-2782-46be-b184-32285946ad2e" />
+
+
 
 ### 7.3. Hình ảnh dữ liệu trên MongoDB Compass
-![MongoDB Compass](anh-mongodb.png)
+<img width="1006" height="660" alt="image" src="https://github.com/user-attachments/assets/c393d90d-36d9-400f-9481-c047b9782408" />
+
+
