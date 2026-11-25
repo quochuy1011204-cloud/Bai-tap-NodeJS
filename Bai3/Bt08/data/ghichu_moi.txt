@@ -1,0 +1,3 @@
+KE HOACH CONG VIEC CA NHAN
+Hoan thanh bai tap NodeJS dung thoi han.
+On tap File System va ren luyen ky nang lap trinh.
