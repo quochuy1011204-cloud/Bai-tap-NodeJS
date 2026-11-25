@@ -39,17 +39,10 @@ Web Server chạy thành công tại cổng 3001. Các chức năng xử lý tha
 ## 6. Hình ảnh minh chứng
 
 - Ảnh 1: Giao diện Terminal chạy Web Server.
-<img width="487" height="178" alt="image" src="https://github.com/user-attachments/assets/fa58c552-738a-4f71-b96e-30c2611781f8" />
 
 - Ảnh 2: Kết quả lời chào.
-- <img width="449" height="150" alt="image" src="https://github.com/user-attachments/assets/a10be991-d356-4712-83f1-ee26ca1578bc" />
-
 - Ảnh 3: Kết quả tính tổng.
-- <img width="447" height="135" alt="image" src="https://github.com/user-attachments/assets/5be577c3-354e-413e-adc0-4b757d6ba9b8" />
-
-- Ảnh 4: Kết quả kiểm tra lỗi
-- <img width="406" height="170" alt="image" src="https://github.com/user-attachments/assets/377f0763-5d9b-4da3-b7c5-29a6b26ec5b3" />
-.
+- Ảnh 4: Kết quả kiểm tra lỗi.
 
 ## 7. Kết luận
 
