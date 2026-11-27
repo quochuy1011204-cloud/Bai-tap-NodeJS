@@ -46,9 +46,6 @@ Sử dụng Middleware để ghi nhận URL request và chuyển tiếp xử lý
 
 **Kết quả:** CMD hiển thị log truy cập khi mở trang.
 
-![Bài 3 - Middleware CMD](AnhMinhChung/03_Middleware_CMD.png)
-
-![Bài 3 - Middleware Web](AnhMinhChung/04_Middleware_Web.png)
 
 ---
 
@@ -76,7 +73,6 @@ Thực hành xử lý lỗi trong ứng dụng Express.
 **Kết quả:** Ứng dụng xử lý lỗi và trả về nội dung phù hợp.
 
 
-![Bài 6 - Error Handling](AnhMinhChung/07_ErrorHandling.png)
 
 ---
 
@@ -102,4 +98,10 @@ node express.js
 
 ## 5. Kết quả
 Hoàn thành bài thực hành Express, làm quen với cách xây dựng Web Server, định tuyến, Middleware, Template Engine và xử lý lỗi.
+<img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/71297e9b-477a-4404-9930-671b65a56606" />
+
+<img width="1198" height="485" alt="image" src="https://github.com/user-attachments/assets/b3149515-5a99-4263-bc0c-f5196064b130" />
+
+
+
 
