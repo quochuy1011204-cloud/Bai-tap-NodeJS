@@ -79,13 +79,25 @@ http://localhost:3000/
 Bổ sung ảnh chụp thực tế sau khi chạy chương trình:
 
 - Trang chủ
+- <img width="1447" height="600" alt="image" src="https://github.com/user-attachments/assets/7c108781-174e-40c8-94e5-9546e1494c2d" />
+
 
 - Trang giới thiệu
+- <img width="1562" height="740" alt="image" src="https://github.com/user-attachments/assets/e074b73b-6a84-4e91-a4ca-4d60fb0498a1" />
+
 - Trang kỹ năng
+- <img width="1153" height="713" alt="image" src="https://github.com/user-attachments/assets/8c0b562e-78e3-45b1-9a65-e3a7e3323546" />
+
 - Trang sở thích
+- <img width="1192" height="732" alt="image" src="https://github.com/user-attachments/assets/6094dcb9-ec76-4739-9954-836b2825a413" />
+
 - Trang liên hệ
+- <img width="1497" height="868" alt="image" src="https://github.com/user-attachments/assets/bd5f42e7-08e3-45c0-a754-f51df8993a4c" />
+
 - Trang lỗi 404
-- Cửa sổ CMD chạy Express
+- <img width="1190" height="631" alt="image" src="https://github.com/user-attachments/assets/0180c446-1aab-49f5-96a2-5cd2cd8f3ccb" />
+
+-
 
 
 
