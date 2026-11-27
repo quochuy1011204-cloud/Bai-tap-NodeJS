@@ -8,6 +8,9 @@ Bài thực hành làm quen với framework Express trong Node.js, thực hành 
 - Express
 - Pug
 - Handlebars
+- link chạy
+- http://localhost:3000/calculator
+- 
 
 ## 3. Danh sách bài thực hành
 
